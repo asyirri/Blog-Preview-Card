@@ -1,5 +1,7 @@
 # Blog Preview Card Solution
 
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
+
 A responsive blog preview card built with HTML and CSS, based on a [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
 ## Features
