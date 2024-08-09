@@ -6,7 +6,7 @@ A responsive blog preview card built with HTML and CSS, based on a [Frontend Men
 
 ## Preview
 
-Here you can see the preview from my [Github Page](https://asyirri.github.io/frontendmentor-challange2/)
+Here you can see the preview from my [Github Page](https://asyirri.github.io/fementor-ch2-blog_preview_card)
 
 ## Features
 
