@@ -4,6 +4,10 @@
 
 A responsive blog preview card built with HTML and CSS, based on a [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
+## Preview
+
+Here you can see the preview from my [Github Page](https://asyirri.github.io/frontendmentor-challange2/)
+
 ## Features
 
 - Interactive hover and focus states.
