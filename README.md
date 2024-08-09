@@ -22,6 +22,6 @@ Here you can see the preview from my [Github Page](https://asyirri.github.io/fro
 
 1. Structure content with HTML.
 2. Style with CSS.
-3. Deploy on [GitHub Pages](https://pages.github.com/), [Vercel](https://vercel.com/), or [Netlify](https://www.netlify.com/).
+3. Deploy on [GitHub Pages](https://pages.github.com/)
 
 **Enjoy building!** 🚀
